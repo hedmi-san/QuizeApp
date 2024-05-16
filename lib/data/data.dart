@@ -27,12 +27,12 @@ class Data {
             Question(
               'What is hot reload in Flutter?',
               [
-                'A feature for quickly seeing changes in code',
                 'A widget',
                 'A plugin',
+                'A feature for quickly seeing changes in code',
                 'None of the above'
               ],
-              0,
+              2,
             ),
             Question(
               'Which widget is used to display images in Flutter?',
@@ -42,12 +42,12 @@ class Data {
             Question(
               'What is the purpose of MaterialApp widget in Flutter?',
               [
-                'To create a Material Design app',
                 'To define app theme',
+                'To create a Material Design app',
                 'To handle app routing',
                 'None of the above'
               ],
-              0,
+              1,
             ),
             Question(
               'What is a StatefulWidget in Flutter?',
@@ -72,12 +72,12 @@ class Data {
             Question(
               'What is the purpose of Scaffold widget in Flutter?',
               [
-                'To implement basic material design layout structure',
                 'To handle user input',
                 'To display images',
+                'To implement basic material design layout structure',
                 'None of the above'
               ],
-              0,
+              2,
             ),
             Question(
               'What is the main function in Flutter?',
@@ -117,12 +117,12 @@ class Data {
             Question(
               'What is the purpose of StatelessWidget in Flutter?',
               [
-                'To represent immutable UI',
                 'To handle user input',
+                'To represent immutable UI',
                 'To manage app state',
                 'None of the above'
               ],
-              0,
+              1,
             ),
             Question(
               'What is the difference between hot reload and hot restart in Flutter?',
@@ -137,22 +137,22 @@ class Data {
             Question(
               'What is the purpose of the Material class in Flutter?',
               [
-                'To implement Material Design',
                 'To define app theme',
+                'To implement Material Design',
                 'To manage app routing',
                 'None of the above'
               ],
-              0,
+              1,
             ),
             Question(
               'What is the purpose of Cupertino widgets in Flutter?',
               [
-                'To implement iOS-style UI',
                 'To handle user input',
                 'To display images',
+                'To implement iOS-style UI',
                 'None of the above'
               ],
-              0,
+              2,
             ),
           ],
         ),
@@ -169,12 +169,12 @@ class Data {
             Question(
               'What is React Native?',
               [
-                'A framework for building mobile apps using JavaScript',
                 'A programming language',
                 'An operating system',
+                'A framework for building mobile apps using JavaScript',
                 'None of the above'
               ],
-              0,
+              2,
             ),
             // Add more questions for Quiz Set 1 of React Native
           ],
@@ -185,12 +185,12 @@ class Data {
             Question(
               'What is JSX in React Native?',
               [
-                'JavaScript XML',
                 'JavaScript Extension',
+                'JavaScript XML',
                 'Java Standard Extension',
                 'None of the above'
               ],
-              0,
+              1,
             ),
             // Add more questions for Quiz Set 2 of React Native
           ],
@@ -201,12 +201,12 @@ class Data {
             Question(
               'What is the purpose of AsyncStorage in React Native?',
               [
-                'To persist data asynchronously',
                 'To handle user input',
                 'To display images',
+                'To persist data asynchronously',
                 'None of the above'
               ],
-              0,
+              2,
             ),
             // Add more questions for Quiz Set 3 of React Native
           ],
@@ -239,12 +239,12 @@ class Data {
             Question(
               'What is the purpose of the "if" statement in Python?',
               [
-                'Conditional execution',
                 'Looping',
+                'Conditional execution',
                 'Function declaration',
                 'None of the above'
               ],
-              0,
+              1,
             ),
             // Add more questions for Quiz Set 2 of Python
           ],
@@ -277,12 +277,12 @@ class Data {
             Question(
               'What is C#?',
               [
-                'A programming language developed by Microsoft',
                 'A framework',
+                'A programming language developed by Microsoft',
                 'An operating system',
                 'None of the above'
               ],
-              0,
+              1,
             ),
             // Add more questions for Quiz Set 1 of C#
           ],
@@ -293,12 +293,12 @@ class Data {
             Question(
               'What is the purpose of the "using" statement in C#?',
               [
-                'To import namespaces',
                 'To declare variables',
                 'To define classes',
+                'To import namespaces',
                 'None of the above'
               ],
-              0,
+              2,
             ),
             // Add more questions for Quiz Set 2 of C#
           ],
@@ -309,12 +309,12 @@ class Data {
             Question(
               'What is inheritance in C#?',
               [
-                'The ability to create a new class based on an existing class',
                 'A loop structure',
                 'A type of exception handling',
-                'None of the above'
+                'The ability to create a new class based on an existing class',
+                'None of the above',
               ],
-              0,
+              2,
             ),
             // Add more questions for Quiz Set 3 of C#
           ],

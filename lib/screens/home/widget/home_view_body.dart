@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
-
+import 'package:get/get.dart';
 import '../../../data/data.dart';
+import '../../category/category_view.dart';
 
 class HomeScreenBody extends StatelessWidget {
   const HomeScreenBody({super.key});
@@ -70,7 +71,9 @@ class HomeScreenBody extends StatelessWidget {
               itemBuilder: (context, index) {
                 final category = Data.categories[index];
                 return InkWell(
-                  onTap: () {},
+                  onTap: () {
+                    Get.to(() => CategoryView(category: category));
+                  },
                   child: Container(
                     padding: const EdgeInsets.symmetric(vertical: 20),
                     decoration: BoxDecoration(
