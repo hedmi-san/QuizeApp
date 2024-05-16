@@ -4,7 +4,7 @@ class Data {
   static List<Category> categories = [
     Category(
       name: 'Flutter',
-      image: 'assets/Flutter.png',
+      image: 'assets/images/Flutter.png',
       quizSets: [
         QuizSet(
           name: 'Quiz Set 1',
@@ -161,7 +161,7 @@ class Data {
     ),
     Category(
       name: 'React Native',
-      image: 'assets/React Native.png',
+      image: 'assets/images/React Native.png',
       quizSets: [
         QuizSet(
           name: 'Quiz Set 1',
@@ -215,7 +215,7 @@ class Data {
     ),
     Category(
       name: 'Python',
-      image: 'assets/Python.png',
+      image: 'assets/images/Python.png',
       quizSets: [
         QuizSet(
           name: 'Quiz Set 1',
@@ -269,7 +269,7 @@ class Data {
     ),
     Category(
       name: 'C#',
-      image: 'assets/C#.png',
+      image: 'assets/images/C#.png',
       quizSets: [
         QuizSet(
           name: 'Quiz Set 1',
