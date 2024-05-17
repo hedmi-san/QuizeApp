@@ -125,7 +125,7 @@ class Data {
               1,
             ),
             Question(
-              'What is the difference between hot reload and hot restart in Flutter?',
+              'What is the difference between hot reload & hot restart?',
               [
                 'Hot reload updates the UI without restarting the app',
                 'Hot restart restarts the app',
